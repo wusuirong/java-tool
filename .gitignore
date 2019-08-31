@@ -13,5 +13,10 @@ hs_err_pid*
 
 .project
 .settings
-target
+target/
 .classpath
+
+.idea/
+*.iml
+*.log
+.gitignore
